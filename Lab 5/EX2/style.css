@@ -1,13 +1,13 @@
 <body>
-{background-color: slategray;
+{background-color: rgb(158, 190, 221);
 margin:20px;
 font-family: 'Times New Roman', Times, serif;
 }
 #titlu {text-align:center;
-color: black;
+color: rgb(0, 0, 0);
 }
 .subtitlu
-{border-bottom: 2px solid #ccc;
+{border-bottom: 2px solid #a58888;
 }
 
 .ing-profil {
