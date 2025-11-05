@@ -1,0 +1,19 @@
+<body>
+{background-color: slategray;
+margin:20px;
+font-family: 'Times New Roman', Times, serif;
+}
+#titlu {text-align:center;
+color: black;
+}
+.subtitlu
+{border-bottom: 2px solid #ccc;
+}
+
+.ing-profil {
+    height:200px
+    width: 200px
+    display: block;
+    margin: 0 auto;
+    border-radius:50%;
+}
