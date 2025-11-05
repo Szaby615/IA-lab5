@@ -1,19 +1,19 @@
 <body>
-{background-color: rgb(158, 190, 221);
+{background-color: rgb(0, 128, 255);
 margin:20px;
 font-family: 'Times New Roman', Times, serif;
 }
 #titlu {text-align:center;
-color: rgb(0, 0, 0);
+color: rgb(255, 1, 1);
 }
 .subtitlu
-{border-bottom: 2px solid #a58888;
+{border-bottom: 2px solid #000000;
 }
 
 .ing-profil {
     height:200px
     width: 200px
     display: block;
-    margin: 0 auto;
+    margin:  auto;
     border-radius:50%;
 }

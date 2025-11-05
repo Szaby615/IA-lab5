@@ -1,19 +1,18 @@
 body{
-    background-color: #00ff4c;
+    background-color: #deec0f;
     margin: 20px;
     font-family: 'Arial';
 }
 #titlu{
     text-align: center;
-    color: #000000;
+    color: #ff00dd;
 }
 #subtitlu{
-    border-bottom: 2px solid #ff0000;
+    border-bottom: 2px solid #000000;
 }
 img-profil{
     height: 200px;
-    width: 300px;
+    width: 200px;
     display: block;
-    margin:  auto;
+    margin: 0 auto;
     border-radius: 50%;
-}
