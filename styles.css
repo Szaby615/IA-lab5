@@ -1,0 +1,19 @@
+<body>
+{background-color: rgb(0, 255, 55);
+margin:20px;
+font-family:Arial, Helvetica, sans-serif;
+}
+#titlu {text-align:center;
+color: rgb(0, 0, 0);
+}
+.subtitlu
+{border-bottom: 2px solid #ff0000;
+}
+
+.ing-profil {
+    height:200px
+    width: 200px
+    display: block;
+    margin: 0 auto;
+    border-radius:50%;
+}
